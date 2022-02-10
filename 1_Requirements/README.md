@@ -4,7 +4,7 @@ This project is about TicTacToe 2-player game using C programming. Tic-tac-toe i
 
 # High Level Requirements
 * The game is played on a grid that's 3 squares by 3 squares.
-* You can choose either 'X' or '0-9'.
+* You are 'X' your friend or computer is '0-9'.
 * First player who gets the 3 marks in a row (up, down, across, or diagonally) will be the winner of the game.
 
 # Low Level Requirements
