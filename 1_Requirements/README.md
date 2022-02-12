@@ -48,7 +48,7 @@ Tic-tac-toe is a simple game is played on a grid that's 3 squares by 3 squares
 Tic-tac-toe is a fun game that you can play any time
 # WHERE
  This game can played anywhere in a computer or even using a paper and pen.
- 
+
 # HOW
 The game is played on a grid that's 3 squares by 3 squares.
 Then you can choose whether you are use 'X' or '0'
