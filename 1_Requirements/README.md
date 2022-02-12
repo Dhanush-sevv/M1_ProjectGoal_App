@@ -15,3 +15,41 @@ On pressing 2, a LEADERBOARD will be shown of the users played on a particular s
 # Low Level Requirements
 * When all 9 squares are full, the game is over.
 * If no player has 3 marks in a row, the game ends in a tie.
+
+ ## Game Strategy 
+
+Tic-Tac-Toe game has many strategies that can be used. The main point of the strategy is  the  players  have  to  block the  opponent  fork,  either  horizontally,  vertically,  or diagonally, while the players have to find their own fork to win.  
+ In combinatorial study, suppose “X” moves first, then the game is won as follows:
+  • 91 distinct positions are won by X.
+   • 44 distinct position are won by O.
+    • 3 distinct positions are draw
+
+## SWOT
+
+# Strength
+ Player has a huge advantage twice as likely to win,10 times less likely to draw.
+
+# Weekness
+ Best players from both parties leads to draw.
+
+ # opportunities
+ It helps children develop their logical thinking.
+
+ # Threads
+  Easily can identify the strategy.
+
+## $W's 1H
+
+# WHO
+Any user can play this game.
+# WHAT
+Tic-tac-toe is a simple game is played on a grid that's 3 squares by 3 squares
+# WHEN
+Tic-tac-toe is a fun game that you can play any time
+# WHERE
+ This game can played anywhere in a computer or even using a paper and pen.
+ 
+# HOW
+The game is played on a grid that's 3 squares by 3 squares.
+Then you can choose whether you are use 'X' or '0'
+First player who gets the 3 marks in a row (up, down, across, or diagonally) will be the winner of the game.
