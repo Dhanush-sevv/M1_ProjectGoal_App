@@ -10,9 +10,14 @@ On pressing 2, a LEADERBOARD will be shown of the users played on a particular s
 ## High Level Requirements
 * The game is played on a grid that's 3 squares by 3 squares.
 * You are 'X', your friend or computer is '0-9'.
+* If I can win on this move,do it.2. 
+* If the other player can win on the next move,block thatwinning square
 * First player who gets the 3 marks in a row (up, down, across, or diagonally) will be the winner of the game.
 
 ## Low Level Requirements
+* Take the center square if it’s free.
+* Take a corner square if one is free.
+* Take whatever is available
 * When all 9 squares are full, the game is over.
 * If no player has 3 marks in a row, the game ends in a tie.
 
