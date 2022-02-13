@@ -17,8 +17,7 @@ The main point of the strategy is  the  players  have  to  block the  opponent  
    Hence there are only three possible results – a player wins, his opponent(human or computer) wins or it’s a tie.
    
  #  Conclusion
-    We make Tic Tac Toe game successfully with the help ofC language and it is very entertaining.
-
+    We created a TicTacToe game successfully with the help of C Language. This game is very fun and entertaining and also helps children to develop their logical thinking.
 # References
 1.GOOGLE
 2.https://www.researchgate.net/publication/335975566_AI_Analysis_for_Tic-Tac-Toe_Game
