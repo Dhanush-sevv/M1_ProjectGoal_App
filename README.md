@@ -6,3 +6,6 @@
 
 # Build
 [![CI](https://github.com/Dhanush-sevv/M1_ProjectGoal_Game/actions/workflows/build.yml/badge.svg)](https://github.com/Dhanush-sevv/M1_ProjectGoal_Game/actions/workflows/build.yml)
+
+# CPPCheck
+[![cppcheck-action](https://github.com/Dhanush-sevv/M1_ProjectGoal_Game/actions/workflows/CPP.yml/badge.svg)](https://github.com/Dhanush-sevv/M1_ProjectGoal_Game/actions/workflows/CPP.yml)
